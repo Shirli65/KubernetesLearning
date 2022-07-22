@@ -27,7 +27,7 @@ url: "https://shirli65.github.io/KubernetesLearning" # the base hostname & proto
 github_username:  Shirli65
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
